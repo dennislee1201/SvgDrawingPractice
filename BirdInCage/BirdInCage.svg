@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="BirdInCage.svg">
   <defs
      id="defs4">
     <pattern
@@ -43,7 +43,7 @@
      inkscape:cx="288.78069"
      inkscape:cy="398.49057"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="986"
      inkscape:window-height="1017"
@@ -72,8 +72,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-252.36218)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        transform="translate(76.756427,455.63946)"
        style="display:inline"
@@ -137,7 +136,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(-0.18194378,0.98330893,-0.98330893,-0.18194378,856.38546,343.62135)"
+       transform="matrix(-0.18194378,0.98330893,-0.98330893,-0.18194378,879.53011,242.99242)"
        id="svg_93-4">
       <path
          stroke-linejoin="null"
